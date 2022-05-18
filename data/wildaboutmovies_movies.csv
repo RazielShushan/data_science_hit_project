@@ -1,4 +1,4 @@
-,Movie_name,Year
+,movie_name,year
 0,American Hangman,2019
 1,Escape Room,2019
 2,Great Great Great,2019
@@ -61,7 +61,7 @@
 59,Untogether,2019
 60,What Men Want,2019
 61,Birds of Passage,2019
-62,Happy Death Day 2U,2019
+62, ,2019
 63,Isn't It Romantic,2019
 64,Alita Battle Angel,2019
 65,Fighting With My Family,2019
@@ -296,7 +296,7 @@
 294,47 Meters Down: Uncaged,2019
 295,Aquarela,2019
 296,Blinded By The Light,2019
-297,Cold Case Hammarskjöld,2019
+297,Cold Case Hammarskj?ld,2019
 298,End of the Century,2019
 299,Good Boys,2019
 300,Line Walker 2,2019
@@ -440,7 +440,7 @@
 438,Klaus,2019
 439,Last Christmas,2019
 440,Midway,2019
-441,Mr. Toilet: The World’s #2 Man,2019
+441,Mr. Toilet: The World,2019
 442,Playing With Fire,2019
 443,The Kingmaker,2019
 444,Mickey And The Bear,2019
@@ -891,7 +891,7 @@
 889,A.I. Tales,2018
 890,Believer,2018
 891,Bernard and Huey,2018
-892,En el Séptimo Día,2018
+892,En el S ptimo Da,2018
 893,Haikara San Here Comes Miss Modern,2018
 894,Half The Picture,2018
 895,Hearts Beat Loud,2018
@@ -1241,7 +1241,7 @@
 1239,Trouble,2018
 1240,Venom,2018
 1241,Viking Destiny,2018
-1242,22 July,2018
+1242,22-Jul,2018
 1243,Liyana,2018
 1244,The Happy Prince,2018
 1245,After Everything,2018
@@ -1636,7 +1636,7 @@
 1634,Manifesto,2017
 1635,Absolutely Anything,2017
 1636,Dead Awake,2017
-1637,Elián,2017
+1637,Eliin,2017
 1638,Hounds of Love,2017
 1639,Jasmine,2017
 1640,King Arthur Legend of the Sword,2017
@@ -1859,7 +1859,7 @@
 1857,The Wound,2017
 1858,6 Days,2017
 1859,Dave Made A Maze,2017
-1860,Gōōk,2017
+1860,Gk,2017
 1861,Lemon,2017
 1862,Logan Lucky,2017
 1863,Marjorie Prime,2017
@@ -1914,7 +1914,7 @@
 1912,Man In Red Bandana,2017
 1913,Spettacolo,2017
 1914,White Sun,2017
-1915,9/11,2017
+1915,09-Nov,2017
 1916,Anti Matter,2017
 1917,Company Town,2017
 1918,Fallen,2017
@@ -2104,7 +2104,7 @@
 2102,No Dress Code Required,2017
 2103,Thor Ragnarok,2017
 2104,Wait For Your Laugh,2017
-2105,11/8/16,2017
+2105,11/08/2016,2017
 2106,Amanda And Jack Go Glamping,2017
 2107,Bitch,2017
 2108,Daddy's Home 2,2017
@@ -3060,7 +3060,7 @@
 3058,The Happy House,2014
 3059,The Returned,2014
 3060,Winter's Tale,2014
-3061,"Êk Momik, Du Momik...",2014
+3061,Du Momik.,2014
 3062,Almost Human,2014
 3063,Angels in Stardust,2014
 3064,Barefoot,2014
@@ -3086,7 +3086,7 @@
 3084,The Bag Man,2014
 3085,The Lunchbox,2014
 3086,Particle Fever,2014
-3087,"""Mob Wives"" Total Chaos",2014
+3087,Mob Wives Total Chaos,2014
 3088,300: Rise of an Empire,2014
 3089,A Farewell To Fools,2014
 3090,Awful Nice,2014
@@ -3189,7 +3189,7 @@
 3187,Ilo Ilo,2014
 3188,In the Blood,2014
 3189,Island Of Lemurs Madagascar,2014
-3190,Jinn		,2014
+3190,"Jinn		",2014
 3191,On the Other Side of the Tracks,2014
 3192,Something Wicked,2014
 3193,The Borderlands,2014
@@ -3203,7 +3203,7 @@
 3201,Hateship Loveship,2014
 3202,Jesus People,2014
 3203,Joe,2014
-3204,Le métis de Dieu,2014
+3204,Son of God,2014
 3205,Oculus,2014
 3206,Only Lovers Left Alive,2014
 3207,Perfect Sisters,2014
@@ -3255,7 +3255,7 @@
 3253,The Quiet Ones,2014
 3254,Walking with the Enemy,2014
 3255,Who is Dayani Cristal?,2014
-3256,"""Water and Power""",2014
+3256,Water and Power,2014
 3257,Bad Johnson,2014
 3258,Belle,2014
 3259,Beneath the Harvest Sky,2014
@@ -3317,7 +3317,7 @@
 3315,Cold in July,2014
 3316,Frequencies,2014
 3317,Gore Vidal: The United States of Amnesia,2014
-3318,Grand départ,2014
+3318,Grand Ap,2014
 3319,Lila Lila,2014
 3320,Stand Clear of the Closing Doors,2014
 3321,The Angriest Man in Brooklyn,2014
@@ -3699,7 +3699,7 @@
 3697,Warm Bodies,2013
 3698,Charles Swan,2013
 3699,Identity Thief,2013
-3700,Lore		,2013
+3700,"Lore		",2013
 3701,Side Effects,2013
 3702,Top Gun,2013
 3703,Beautiful Creatures (2013),2013
@@ -4032,7 +4032,7 @@
 4029,Mr. Nobody,2013
 4030,Nobody,2013
 4031,Perverts Guide To Ideology,2013
-4032,Sal		,2013
+4032,"Sal		",2013
 4033,Sweet Dreams (2013),2013
 4034,The Broken Circle Breakdown,2013
 4035,These Birds Walk,2013
@@ -4049,7 +4049,7 @@
 4046,The Ghosts In Our Machine,2013
 4047,The Starving Games,2013
 4048,Thor 2,2013
-4049,12-12-12,2013
+4049,12/12/2012,2013
 4050,Charlie Countryman,2013
 4051,Cold Turkey,2013
 4052,Faust,2013
@@ -4673,7 +4673,7 @@
 4669,Harold And Kumar Christmas,2011
 4670,The Son Of No One,2011
 4671,Tower Heist,2011
-4672,11-11-11,2011
+4672,11/11/2011,2011
 4673,Cairo Time,2011
 4674,Elite Squad 2,2011
 4675,Immortals,2011
@@ -6362,11 +6362,11 @@
 6356,Cowboy Ninja Viking,2021
 6357,The Green Knight,2021
 6358,The King of Oil,2021
-6359,La Belle Époque,2021
+6359,La Belle ?poque,2021
 6360,RoboCop Returns,2021
 6361,Malamander,2021
 6362,Saint Maud,2021
-6363,Sadé,2021
+6363,Sad,2021
 6364,Nightmare Alley (2021),2021
 6365,Children of Blood and Bone,2021
 6366,Don't Worry Darling,2021
